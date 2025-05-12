@@ -30,7 +30,7 @@ CSS Styling: Craft a visually appealing user interface with Cascading Style Shee
 1. Clone the repository to your local machine.
 
     ```bash
-    git clone https://github.com/Sai-Manikanta-Andey/GeminiClone.git
+    git clone https://github.com/aasreethamagham/Gemini-clone.git
 
 
 
